@@ -11,8 +11,8 @@ Hey everyone, this is just an index file containing all the repo names and work
 0007 ----------------- 0007-DM--Lab-01--Learning-Python -----------------
 0008 ----------------- 0008-DM-Lab-02-Classification-Naive-Bayes-Cross-Validation-Likelihood-Priori-Posterior-Performance -----------------
 0009 ----------------- 0009-DM-CW-Basic-I-O-Frequent-Itemset-apriori-associated-rule--FP-Growth-rule-Reusability-of-code -----------------
-0010 -----------------  -----------------
-0011 -----------------  -----------------
+0010 ----------------- 0010-HCI-Human-computer-Interaction -----------------
+0011 ----------------- 0011-HCI-Human-computer-Interaction final report on Augmented Reality -----------------
 0012 -----------------  -----------------
 0013 -----------------  -----------------
 0014 -----------------  -----------------
