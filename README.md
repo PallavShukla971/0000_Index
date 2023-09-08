@@ -5,12 +5,12 @@ Hey everyone, this is just an index file containing all the repo names and work
 0001 ----------------- 0001-Lab00_ML_python-basic-swansea-university -----------------
 0002 ----------------- 0002-Machine-leanring-lab-1-Iris-data-set -----------------
 0003 ----------------- 0003-Lab-02-ML-Identifying-the-dataset-contents-and-shape -----------------
-0004 ----------------- 0003-Lab-02-ML-Identifying-the-dataset-contents-and-shape -----------------
-0005 ----------------- 0004-LR-PCA-LDA-PCA-ny-hand-Lab03 -----------------
-0006 ----------------- 0005-Lab-04-ML-SVM-NN-CNN -----------------
-0007 ----------------- 0006-ML-CW1-Object-recognition-CNN -----------------
-0008 ----------------- 0007-DM--Lab-01--Learning-Python  -----------------
-0009 ----------------- 0008-DM-Lab-02-Classification-Naive-Bayes-Cross-Validation-Likelihood-Priori-Posterior-Performance -----------------
+0004 ----------------- 0004-LR-PCA-LDA-PCA-ny-hand-Lab03 -----------------
+0005 ----------------- 0005-Lab-04-ML-SVM-NN-CNN -----------------
+0006 ----------------- 0006-ML-CW1-Object-recognition-CNN -----------------
+0007 ----------------- 0007-DM--Lab-01--Learning-Python -----------------
+0008 ----------------- 0008-DM-Lab-02-Classification-Naive-Bayes-Cross-Validation-Likelihood-Priori-Posterior-Performance -----------------
+0009 ----------------- 0009-DM-CW-Basic-I-O-Frequent-Itemset-apriori-associated-rule--FP-Growth-rule-Reusability-of-code -----------------
 0010 -----------------  -----------------
 0011 -----------------  -----------------
 0012 -----------------  -----------------
