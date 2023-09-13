@@ -35,7 +35,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0016 ----------------- 016-MSc-Project-Final-With-Code-Dissertation -----------------
 
-0017 ----------------- 017-Human-Centered-Visual-Analytics -----------------
+0017 ----------------- 017-Human-Centered-Visual-Analytics-All-Visualisation-Data-Visualisation Data Analytics -----------------
 
 0018 -----------------  -----------------
 
