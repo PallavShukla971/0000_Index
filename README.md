@@ -37,9 +37,9 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0017 ----------------- 017-Human-Centered-Visual-Analytics-All-Visualisation-Data-Visualisation Data Analytics -----------------
 
-0018 -----------------  -----------------
+0018 ----------------- 018-Android-project-Made-in-Bachelors-E-Commerce-App-PHAB-APP -----------------
 
-0019 -----------------  -----------------
+0019 ----------------- 019- -----------------
 
 0020 -----------------  -----------------
 002 -----------------  -----------------
