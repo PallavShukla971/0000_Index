@@ -43,9 +43,9 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0020 ----------------- 0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst -----------------
 
-0021 ----------------- 021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst -----------------
+0021 ----------------- 0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst -----------------
 
-002 -----------------  -----------------
+0022 -----------------  0022-Tableau-Data-Visualization-On-NETFLIX-Data -----------------
 002 -----------------  -----------------
 002 -----------------  -----------------
 002 -----------------  -----------------
