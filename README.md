@@ -53,7 +53,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0024 ----------------- 0024-Tableau-Data-Visualizaion-project--IBM-HR-Sales-Dashboard  -----------------
 
-0025 -----------------  -----------------
+0025 ----------------- 0024-Tableau-Data-Visualizaion-project--Hotel-Sales-In-Las-Vegas-Dashboard-Trivago-Expedia -----------------
 
 0026 -----------------  -----------------
 
