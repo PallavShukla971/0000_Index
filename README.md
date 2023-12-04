@@ -55,7 +55,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0025 ----------------- 0025-Tableau-Data-Visualizaion-project--Hotel-Sales-In-Las-Vegas-Dashboard-Trivago-Expedia -----------------
 
-0026 -----------------  -----------------
+0026 ----------------- 0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries -----------------
 
 0027 -----------------  -----------------
 
