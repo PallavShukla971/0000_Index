@@ -59,7 +59,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0027 ----------------- 0027-Tableau-Data-Visualizaion-project--Covid 19 In India Dashboard Analysis HealthCare -----------------
 
-0028 -----------------  -----------------
+0028 ----------------- 0028-Tableau-Data-Visualizaion-project--AirBnb-Booking-NYC ------------------
 
 0029 -----------------  -----------------
 
