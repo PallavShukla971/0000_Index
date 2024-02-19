@@ -103,7 +103,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0051 ----------------- 0051-Power-BI-Amazon-Prime-DASHBOARD-Data-Analayst -----------------
 
-0052 -----------------  -----------------
+0052 ----------------- 0052-Power-BI-Fifa-World-Cup-Data-Analayst -----------------
 
 0053 -----------------  -----------------
 
