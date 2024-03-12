@@ -192,11 +192,11 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 ###########################################  MISCELLANEOUS  ##############################################
 
-0120 ----------------- HTML CSS JS - Days Alive Project -----------------
+0120 ----------------- 0120-HTML CSS JS - Days Alive Project -----------------
 
-0121 ----------------- HTML CSS JS - Cool Website Background -----------------
+0121 ----------------- 0121-HTML CSS JS - MATRIX Website Background -----------------
 
-0122 -----------------  -----------------
+0122 ----------------- 0122-HTML CSS JS - Mouse Trail Website Background -----------------
 0123 -----------------  -----------------
 0124 -----------------  -----------------
 0125 -----------------  -----------------
