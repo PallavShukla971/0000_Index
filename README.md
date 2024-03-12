@@ -193,12 +193,17 @@ Hey everyone, this is just an index file containing all the repo names and work
 ###########################################  MISCELLANEOUS  ##############################################
 
 0120 ----------------- 0120-HTML CSS JS - Days Alive Project -----------------
+
 https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/
 
 0121 ----------------- 0121-HTML CSS JS - MATRIX Website Background  -----------------
+
 https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/
 
 0122 ----------------- 0122-HTML CSS JS - Mouse Trail Website Background -----------------
+
+https://pallavshukla971.github.io/0122-HTML-CSS-JS---Mouse-Trail-Website-Background/
+
 0123 -----------------  -----------------
 0124 -----------------  -----------------
 0125 -----------------  -----------------
