@@ -1,9 +1,9 @@
 # 0000_Index
 Hey everyone, this is just an index file containing all the repo names and work
 
-# ###########################################  Index file  ##############################################
+# ##################  Index file  ##################
 
-0000 ----------------- Index file ----------------- 
+0000 ----------------- Old Projects - 1 to 19 - ----------------- 
 
 0001 ----------------- 0001-Lab00_ML_python-basic-swansea-university -----------------
 
