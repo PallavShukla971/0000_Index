@@ -59,11 +59,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0026 ----------------- [0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries](https://github.com/PallavShukla971/0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries) -----------------
 
-https://github.com/PallavShukla971/0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries
-
-0027 ----------------- 0027-Tableau-Data-Visualizaion-project--Covid 19 In India Dashboard Analysis HealthCare -----------------
-
-https://public.tableau.com/app/profile/pallav.shukla/viz/Covid19_India_Data_Analysis/Dashboard12
+0027 ----------------- [0027-Tableau-Data-Visualizaion-project--Covid 19 In India Dashboard Analysis HealthCare](https://public.tableau.com/app/profile/pallav.shukla/viz/Covid19_India_Data_Analysis/Dashboard12) -----------------
 
 0028 ----------------- 0028-Tableau-Data-Visualizaion-project--AirBnb-Booking-NYC ------------------
 
@@ -198,17 +194,11 @@ https://github.com/PallavShukla971/0028-Tableau-Data-Visualizaion-project--AirBn
 
 ###########################################  MISCELLANEOUS  ##############################################
 
-0120 ----------------- 0120-HTML CSS JS - Days Alive Project -----------------
+0120 ----------------- [0120-HTML CSS JS - Days Alive Project](https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/) -----------------
 
-https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/
+0121 ----------------- [0121-HTML CSS JS - MATRIX Website Background](https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/)  -----------------
 
-0121 ----------------- 0121-HTML CSS JS - MATRIX Website Background  -----------------
-
-https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/
-
-0122 ----------------- 0122-HTML CSS JS - Mouse Trail Website Background -----------------
-
-https://pallavshukla971.github.io/0122-HTML-CSS-JS---Mouse-Trail-Website-Background/
+0122 ----------------- [0122-HTML CSS JS - Mouse Trail Website Background](https://pallavshukla971.github.io/0122-HTML-CSS-JS---Mouse-Trail-Website-Background/) -----------------
 
 0123 -----------------  -----------------
 0124 -----------------  -----------------
