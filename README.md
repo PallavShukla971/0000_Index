@@ -65,7 +65,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0029 ----------------- 0029-Tableau-Data-Visualizaion-project--Heart Failure Healthcare -----------------
 
-# #####-#####__SQL__#####-#####
+# #####-#####__-SQL-__#####-#####
 
 0030 ----------------- 0030-SQL-Data-Analayst-Project-1 -----------------
 
@@ -141,7 +141,8 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0069 ----------------- 0069-PowerBi-All-Portfolio-Projects -----------------
 
-###########################################  DATA VISUALISATION -- TABLEAU Part - 2 --  ##############################################
+[comment]: <> (###########################################  DATA VISUALISATION -- TABLEAU Part - 2 --  ##############################################) 
+# #####-__-DATA-VISUALISATION--TABLEAU-Part-2-__#####
 
 0060 -----------------  -----------------
 0070 -----------------  -----------------
