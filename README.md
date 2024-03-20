@@ -1,7 +1,8 @@
 # 0000_Index
 Hey everyone, this is just an index file containing all the repo names and work
 
-# ##################  Index file  ##################
+[comment]: <> (##################  Index file  ##################)
+# #####-#####__-Index file-__#####-#####
 
 0000 ----------------- Old Projects - 1 to 19 - ----------------- 
 
@@ -45,6 +46,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 [comment]: <> (###########################################  DATA VISUALISATION -- TABLEAU Part - 1 --  ##############################################) 
 # #####-__-DATA-VISUALISATION--TABLEAU-Part-1-__#####
+
 0020 ----------------- 0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst -----------------
 
 0021 ----------------- 0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst -----------------
@@ -107,7 +109,8 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0049 ----------------- 0049-MySql-All-Portfolio-Projects -----------------
 
-########################################### POWER-BI ##############################################
+[comment]: <> (########################################### POWER-BI ##############################################) 
+# #####-#####__-POWER-BI-__#####-#####
 
 0050 ----------------- [0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst](https://github.com/PallavShukla971/0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst) ------------------
 
@@ -157,7 +160,8 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0079 ----------------- 0079-Tableau-All-Portfolio-Projects -----------------
 
-###########################################  EXCEL  ##############################################
+[comment]: <> (###########################################  EXCEL  ##############################################) 
+# #####-#####__-EXCEL-__#####-#####
 
 0080 -----------------  -----------------
 0081 -----------------  -----------------
@@ -181,7 +185,8 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0099 ----------------- 0099-Excel-All-Portfolio-Projects -----------------
 
-###########################################  PYTHON  ##############################################
+[comment]: <> (###########################################  PYTHON  ##############################################) 
+# #####-#####__-PYTHON-__#####-#####
 
 0100 -----------------  -----------------
 0101 -----------------  -----------------
@@ -205,7 +210,8 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0119 ----------------- 0119-Python-All-Portfolio-Projects -----------------
 
-###########################################  MISCELLANEOUS  ##############################################
+[comment]: <> (###########################################  MISCELLANEOUS  ##############################################) 
+# #####-#####__-MISCELLANEOUS-__#####-#####
 
 0120 ----------------- [0120-HTML CSS JS - Days Alive Project](https://pallavshukla971.github.io/0120-HTML-CSS-JS---Days-Alive-Project.github.io/) -----------------
 
