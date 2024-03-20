@@ -107,7 +107,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0048 ----------------- [0048-SQL-Data-Analayst-Basic-Practice](https://github.com/PallavShukla971/0048-SQL-Data-Analayst-Basic-Practice) -----------------
 
-0049 ----------------- 0049-MySql-All-Portfolio-Projects -----------------
+0049 ----------------- [0049-MySql-All-Portfolio-Projects](https://github.com/PallavShukla971/0049-MySql-All-Portfolio-Projects/tree/main) -----------------
 
 [comment]: <> (########################################### POWER-BI ##############################################) 
 # #####-#####__-POWER-BI-__#####-#####
