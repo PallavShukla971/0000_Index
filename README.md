@@ -65,7 +65,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0029 ----------------- 0029-Tableau-Data-Visualizaion-project--Heart Failure Healthcare -----------------
 
-# #####   SQL #####
+# ##### #####   SQL #####
 
 0030 ----------------- 0030-SQL-Data-Analayst-Project-1 -----------------
 
