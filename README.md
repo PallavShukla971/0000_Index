@@ -32,17 +32,17 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0013 ----------------- 0013-Software-Testing-SW- Lab and CW assignment- Coursework -----------------
 
-0014 ----------------- 014-Mathematical-skills-for-Data-Analyst-Assignment-matlab -----------------
+0014 ----------------- 0014-Mathematical-skills-for-Data-Analyst-Assignment-matlab -----------------
 
-0015 ----------------- 015-Modelling-and-verification-techniques-based-on-logics -----------------
+0015 ----------------- 0015-Modelling-and-verification-techniques-based-on-logics -----------------
 
-0016 ----------------- 016-MSc-Project-Final-With-Code-Dissertation -----------------
+0016 ----------------- [0016-MSc-Project-Final-With-Code-Dissertation](https://github.com/PallavShukla971/016-MSc-Project-Final-With-Code-Dissertation) -----------------
 
-0017 ----------------- 017-Human-Centered-Visual-Analytics-All-Visualisation-Data-Visualisation Data Analytics -----------------
+0017 ----------------- 0017-Human-Centered-Visual-Analytics-All-Visualisation-Data-Visualisation Data Analytics -----------------
 
-0018 ----------------- 018-Android-project-Made-in-Bachelors-E-Commerce-App-PHAB-APP -----------------
+0018 ----------------- 0018-Android-project-Made-in-Bachelors-E-Commerce-App-PHAB-APP -----------------
 
-0019 ----------------- 019-Android-IOT-based-Emergency-Hosiptal-App -----------------
+0019 ----------------- 0019-Android-IOT-based-Emergency-Hosiptal-App -----------------
 
 [comment]: <> (###########################################  DATA VISUALISATION -- TABLEAU Part - 1 --  ##############################################) 
 # #####-__-DATA-VISUALISATION--TABLEAU-Part-1-__#####
@@ -220,10 +220,15 @@ Hey everyone, this is just an index file containing all the repo names and work
 0122 ----------------- [0122-HTML CSS JS - Mouse Trail Website Background](https://pallavshukla971.github.io/0122-HTML-CSS-JS---Mouse-Trail-Website-Background/) -----------------
 
 0123 ----------------- [0123-HTML CSS JS - MATRIX -2  Website Background](https://pallavshukla971.github.io/0123-HTML-CSS-JS---MATRIX--2-Website-Background.github.io/) -----------------
-0124 -----------------  -----------------
+
+0124 ----------------- [0124-Authentic-MSc-Thesis-Data-Science](https://github.com/PallavShukla971/0124-Authentic-MSc-Thesis-Data-Science/tree/main) -----------------
+
 0125 -----------------  -----------------
+
 0126 -----------------  -----------------
+
 0127 -----------------  -----------------
+
 0128 -----------------  -----------------
 
 0129 -----------------  -----------------
