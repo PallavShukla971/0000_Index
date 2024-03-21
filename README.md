@@ -208,7 +208,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 0117 -----------------  -----------------
 0118 -----------------  -----------------
 
-0119 ----------------- 0119-Python-All-Portfolio-Projects -----------------
+0119 ----------------- [0119-Python-All-Portfolio-Projects](https://github.com/PallavShukla971/0119-Python-All-Portfolio-Projects/tree/main) -----------------
 
 [comment]: <> (###########################################  MISCELLANEOUS  ##############################################) 
 # #####-#####__-MISCELLANEOUS-__#####-#####
