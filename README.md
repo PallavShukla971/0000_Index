@@ -28,7 +28,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0011 ----------------- 0011-HCI-Human-computer-Interaction final report on Augmented Reality -----------------
 
-0012 ----------------- 0012-MSc-Pre-Dissertation-Reports-and-Presentation -----------------
+0012 ----------------- [0012-MSc-Pre-Dissertation-Reports-and-Presentation](https://github.com/PallavShukla971/0012-MSc-Pre-Dissertation-Reports-and-Presentation) -----------------
 
 0013 ----------------- 0013-Software-Testing-SW- Lab and CW assignment- Coursework -----------------
 
