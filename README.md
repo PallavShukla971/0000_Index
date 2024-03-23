@@ -225,7 +225,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0125 ----------------- [0125-Authentic-Work-Experience](https://github.com/PallavShukla971/0125-Authentic-Work-Experience) -----------------
 
-0126 -----------------  -----------------
+0126 ----------------- [0126-Authentic-Internship-WIPRO](https://github.com/PallavShukla971/0126-Authentic-Internship-WIPRO) -----------------
 
 0127 -----------------  -----------------
 
