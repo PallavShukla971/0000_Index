@@ -223,7 +223,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0124 ----------------- [0124-Authentic-MSc-Thesis-Data-Science](https://github.com/PallavShukla971/0124-Authentic-MSc-Thesis-Data-Science/tree/main) -----------------
 
-0125 -----------------  -----------------
+0125 ----------------- [0125-Authentic-Work-Experience](https://github.com/PallavShukla971/0125-Authentic-Work-Experience) -----------------
 
 0126 -----------------  -----------------
 
