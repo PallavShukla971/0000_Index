@@ -231,7 +231,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0128 ----------------- [0128-Authentic-TEDx-RTU-Magazine-Desginer](https://github.com/PallavShukla971/0128-Authentic-TEDx-RTU-Magazine-Desginer) -----------------
 
-0129 ----------------- [0129-Authentic-Live-RTU-Website-APP](https://github.com/PallavShukla971/0129-Authentic-Live-RTU-Website-APP) -----------------
+0129 ----------------- [0129-Authentic-Live-RTU-Website-APP](https://github.com/PallavShukla971/0129-Authentic-Live-RTU-Website-APP.github.io) -----------------
 
 0130 ----------------- [0130-Authentic-Degree-Project-Dissertation-Portfolio](https://github.com/PallavShukla971/0130-Authentic-Degree-Project-Dissertation-Portfolio) -----------------
 
