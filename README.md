@@ -227,9 +227,9 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0126 ----------------- [0126-Authentic-Internship-WIPRO](https://github.com/PallavShukla971/0126-Authentic-Internship-WIPRO) -----------------
 
-0127 ----------------- 0127-Authentic-Internship-Indian-Railways -----------------
+0127 ----------------- [0127-Authentic-Internship-Indian-Railways](https://github.com/PallavShukla971/0127-Authentic-Internship-Indian-Railways) -----------------
 
-0128 ----------------- 0128-Authentic-TEDx-RTU-Magazine-Desginer -----------------
+0128 ----------------- [0128-Authentic-TEDx-RTU-Magazine-Desginer](https://github.com/PallavShukla971/0128-Authentic-TEDx-RTU-Magazine-Desginer) -----------------
 
 0129 -----------------  -----------------
 
