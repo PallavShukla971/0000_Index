@@ -235,7 +235,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0130 ----------------- [0130-Authentic-Degree-Project-Dissertation-Portfolio](https://github.com/PallavShukla971/0130-Authentic-Degree-Project-Dissertation-Portfolio) -----------------
 
-0131 ----------------- [0131-Authentic-Facbook-project](https://github.com/PallavShukla971/0129-Authentic-Live-RTU-Website-APP) -----------------
+0131 ----------------- [0131-Authentic-Facbook-project](https://github.com/PallavShukla971/0131-Authentic-Facbook-project) -----------------
 
 XXXX ----------------- Unknown File[Reminder P] -----------------
 
