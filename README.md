@@ -118,7 +118,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0052 ----------------- [0052-Power-BI-Fifa-World-Cup-Data-Analayst](https://github.com/PallavShukla971/0052-Power-BI-Fifa-World-Cup-Data-Analayst) -----------------
 
-0053 -----------------  -----------------
+0053 ----------------- [0053-Power-BI-IBM-HR-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0053-Power-BI-IBM-HR-Dashboard-Data-Analayst) -----------------
 
 0054 -----------------  -----------------
 
