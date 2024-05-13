@@ -69,7 +69,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 # #####-#####__-SQL-__#####-#####
 
-0030 ----------------- 0030-SQL-Data-Analayst-Project-1 -----------------
+0030 ----------------- [0030-SQL-Pizza-Sales-Data-Analayst-Project-1](https://github.com/PallavShukla971/0030-SQL-Pizza-Sales-Data-Analayst-Project-1/tree/main) -----------------
 
 0031 ----------------- 0031-Sql-Data-Analayst-Project-2 -----------------
 
