@@ -163,7 +163,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 [comment]: <> (###########################################  DATA VISUALISATION -- TABLEAU Part - 2 --  ##############################################) 
 # #####-__-DATA-VISUALISATION--TABLEAU-Part-2-__#####
 
-0070 ----------------- 0070-TABLEAU-Stock Market Dashboard -----------------
+0070 ----------------- [0070-TABLEAU-Stock Market Dashboard](https://github.com/PallavShukla971/0070-TABLEAU-Stock-Market-Dashboard) -----------------
 
 0071 -----------------  -----------------
 
