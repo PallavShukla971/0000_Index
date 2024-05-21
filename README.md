@@ -6,31 +6,31 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0000 ----------------- Old Projects - 1 to 19 - ----------------- 
 
-0001 ----------------- 0001-Lab00_ML_python-basic-swansea-university -----------------
+0001 ----------------- [0001-Lab00_ML_python-basic-swansea-university](https://github.com/PallavShukla971/0001-Lab00_ML_python-basic-swansea-university) -----------------
 
-0002 ----------------- 0002-Machine-leanring-lab-1-Iris-data-set -----------------
+0002 ----------------- [0002-Machine-leanring-lab-1-Iris-data-set](https://github.com/PallavShukla971/0002-Machine-leanring-lab-1-Iris-data-set) -----------------
 
-0003 ----------------- 0003-Lab-02-ML-Identifying-the-dataset-contents-and-shape -----------------
+0003 ----------------- [0003-Lab-02-ML-Identifying-the-dataset-contents-and-shape](https://github.com/PallavShukla971/0003-Lab-02-ML-Identifying-the-dataset-contents-and-shape) -----------------
 
-0004 ----------------- 0004-LR-PCA-LDA-PCA-ny-hand-Lab03 -----------------
+0004 ----------------- [0004-LR-PCA-LDA-PCA-ny-hand-Lab03](https://github.com/PallavShukla971/0004-LR-PCA-LDA-PCA-ny-hand-Lab03) -----------------
 
-0005 ----------------- 0005-Lab-04-ML-SVM-NN-CNN -----------------
+0005 ----------------- [0005-Lab-04-ML-SVM-NN-CNN](https://github.com/PallavShukla971/0005-Lab-04-ML-SVM-NN-CNN) -----------------
 
-0006 ----------------- 0006-ML-CW1-Object-recognition-CNN -----------------
+0006 ----------------- [0006-ML-CW1-Object-recognition-CNN](https://github.com/PallavShukla971/0006-ML-CW1-Object-recognition-CNN) -----------------
 
-0007 ----------------- 0007-DM--Lab-01--Learning-Python -----------------
+0007 ----------------- [0007-DM--Lab-01--Learning-Python](https://github.com/PallavShukla971/0007-DM--Lab-01--Learning-Python) -----------------
 
-0008 ----------------- 0008-DM-Lab-02-Classification-Naive-Bayes-Cross-Validation-Likelihood-Priori-Posterior-Performance -----------------
+0008 ----------------- [0008-DM-Lab-02-Classification-Naive-Bayes-Cross-Validation-Likelihood-Priori-Posterior-Performance](https://github.com/PallavShukla971/0008-DM-Lab-02-Classification-Naive-Bayes-Cross-Validation-Likelihood-Priori-Posterior-Performance) -----------------
 
-0009 ----------------- 0009-DM-CW-Basic-I-O-Frequent-Itemset-apriori-associated-rule--FP-Growth-rule-Reusability-of-code -----------------
+0009 ----------------- [0009-DM-CW-Basic-I-O-Frequent-Itemset-apriori-associated-rule--FP-Growth-rule-Reusability-of-code](https://github.com/PallavShukla971/0009-DM-CW-Basic-I-O-Frequent-Itemset-apriori-associated-rule--FP-Growth-rule-Reusability-of-code) -----------------
 
-0010 ----------------- 0010-HCI-Human-computer-Interaction -----------------
+0010 ----------------- [0010-HCI-Human-computer-Interaction](https://github.com/PallavShukla971/0010-HCI-Human-computer-Interaction) -----------------
 
-0011 ----------------- 0011-HCI-Human-computer-Interaction final report on Augmented Reality -----------------
+0011 ----------------- [0011-HCI-Human-computer-Interaction final report on Augmented Reality](https://github.com/PallavShukla971/0011-HCI-Human-computer-Interaction-final-report-on-Augmented-Reality) -----------------
 
 0012 ----------------- [0012-MSc-Pre-Dissertation-Reports-and-Presentation](https://github.com/PallavShukla971/0012-MSc-Pre-Dissertation-Reports-and-Presentation) -----------------
 
-0013 ----------------- 0013-Software-Testing-SW- Lab and CW assignment- Coursework -----------------
+0013 ----------------- [0013-Software-Testing-SW- Lab and CW assignment- Coursework](https://github.com/PallavShukla971/0013-Software-Testing-SW--Lab-and-CW-assignment--Coursework) -----------------
 
 0014 ----------------- 0014-Mathematical-skills-for-Data-Analyst-Assignment-matlab -----------------
 
