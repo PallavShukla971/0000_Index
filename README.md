@@ -237,7 +237,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0101 ----------------- [0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project](https://github.com/PallavShukla971/0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project) -----------------
 
-0102 -----------------  -----------------
+0102 ----------------- || [0102-Python-Smart-Assist-Machine-Learning-Generative-AI-&-Business-Analytics-Project](https://github.com/PallavShukla971/0102-Python-Smart-Assist-Machine-Learning-Generative-AI---Business-Analytics-Project) || -----------------
 
 0103 -----------------  -----------------
 
