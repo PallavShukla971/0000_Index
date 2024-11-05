@@ -128,7 +128,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0054 ----------------- [0054-Power-BI-Olympic-Athlete-Medals-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0054-Power-BI-Olympic-Athlete-Medals-Dashboard-Data-Analayst) -----------------
 
-0055 -----------------  -----------------
+0055 ----------------- 0055-Power-BI-Data-Science-job-salaries-Dashboard-Data-Analayst -----------------
 
 0056 -----------------  -----------------
 
