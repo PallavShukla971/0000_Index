@@ -49,9 +49,9 @@ Hey everyone, this is just an index file containing all the repo names and work
 [comment]: <> (###########################################  DATA VISUALISATION -- TABLEAU Part - 1 --  ##############################################) 
 # #####-__-DATA-VISUALISATION--TABLEAU-Part-1-__#####
 
-0020 ----------------- [0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst](https://github.com/PallavShukla971/0020-Tableau-Data-Visualizaion-UK-Europe-Dataset-for-virus-among-patien) -----------------
+0020 ----------------- [0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analyst](https://github.com/PallavShukla971/0020-Tableau-Data-Visualizaion-UK-Europe-Dataset-for-virus-among-patien) -----------------
 
-0021 ----------------- [0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst](https://github.com/PallavShukla971/0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst) -----------------
+0021 ----------------- [0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analyst](https://github.com/PallavShukla971/0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analyst) -----------------
 
 0022 ----------------- [0022-Tableau-Data-Visualization-On-NETFLIX-Data](https://github.com/PallavShukla971/0022-Tableau-Data-Visualization-On-NETFLIX-Data) -----------------
 
@@ -73,11 +73,11 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 # #####-#####__-SQL-__#####-#####
 
-0030 ----------------- [0030-SQL-Pizza-Sales-Data-Analayst-Project-1](https://github.com/PallavShukla971/0030-SQL-Pizza-Sales-Data-Analayst-Project-1/tree/main) -----------------
+0030 ----------------- [0030-SQL-Pizza-Sales-Data-Analyst-Project-1](https://github.com/PallavShukla971/0030-SQL-Pizza-Sales-Data-Analayst-Project-1/tree/main) -----------------
 
-0031 ----------------- 0031-Sql-Data-Analayst-Project-2 -----------------
+0031 ----------------- 0031-Sql-Data-Analyst-Project-2 -----------------
 
-0032 ----------------- 0032-Sql-Data-Analayst-Project-3 -----------------
+0032 ----------------- 0032-Sql-Data-Analyst-Project-3 -----------------
 
 0033 -----------------  -----------------
 
@@ -109,7 +109,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0047 -----------------  -----------------
 
-0048 ----------------- [0048-SQL-Data-Analayst-Basic-Practice](https://github.com/PallavShukla971/0048-SQL-Data-Analayst-Basic-Practice) -----------------
+0048 ----------------- [0048-SQL-Data-Analyst-Basic-Practice](https://github.com/PallavShukla971/0048-SQL-Data-Analayst-Basic-Practice) -----------------
 
 0049 ----------------- [0049-MySql-All-Portfolio-Projects](https://github.com/PallavShukla971/0049-MySql-All-Portfolio-Projects/tree/main) -----------------
 
@@ -118,25 +118,25 @@ Hey everyone, this is just an index file containing all the repo names and work
 [comment]: <> (########################################### POWER-BI ##############################################) 
 # #####-#####__-POWER-BI-__#####-#####
 
-0050 ----------------- [0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst](https://github.com/PallavShukla971/0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst) ------------------
+0050 ----------------- [0050-Power-BI-NETFLIX-DASHBOARD-Data-Analyst](https://github.com/PallavShukla971/0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst) ------------------
 
-0051 ----------------- [0051-Power-BI-Amazon-Prime-DASHBOARD-Data-Analayst](https://github.com/PallavShukla971/0051-Power-BI-Amazon-Prime-DASHBOARD-Data-Analayst) -----------------
+0051 ----------------- [0051-Power-BI-Amazon-Prime-DASHBOARD-Data-Analyst](https://github.com/PallavShukla971/0051-Power-BI-Amazon-Prime-DASHBOARD-Data-Analayst) -----------------
 
-0052 ----------------- [0052-Power-BI-Fifa-World-Cup-Data-Analayst](https://github.com/PallavShukla971/0052-Power-BI-Fifa-World-Cup-Data-Analayst) -----------------
+0052 ----------------- [0052-Power-BI-Fifa-World-Cup-Data-Analyst](https://github.com/PallavShukla971/0052-Power-BI-Fifa-World-Cup-Data-Analayst) -----------------
 
-0053 ----------------- [0053-Power-BI-IBM-HR-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0053-Power-BI-IBM-HR-Dashboard-Data-Analayst) -----------------
+0053 ----------------- [0053-Power-BI-IBM-HR-Dashboard-Data-Analyst](https://github.com/PallavShukla971/0053-Power-BI-IBM-HR-Dashboard-Data-Analayst) -----------------
 
-0054 ----------------- [0054-Power-BI-Olympic-Athlete-Medals-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0054-Power-BI-Olympic-Athlete-Medals-Dashboard-Data-Analayst) -----------------
+0054 ----------------- [0054-Power-BI-Olympic-Athlete-Medals-Dashboard-Data-Analyst](https://github.com/PallavShukla971/0054-Power-BI-Olympic-Athlete-Medals-Dashboard-Data-Analayst) -----------------
 
-0055 ----------------- [0055-Power-BI-Data-Science-job-salaries-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0055-Power-BI-Data-Science-job-salaries-Dashboard-Data-Analayst) -----------------
+0055 ----------------- [0055-Power-BI-Data-Science-job-salaries-Dashboard-Data-Analyst](https://github.com/PallavShukla971/0055-Power-BI-Data-Science-job-salaries-Dashboard-Data-Analayst) -----------------
 
-0056 ----------------- [0056-Power-BI-AirBNB-New-York-City-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0056-Power-AirBNB-New-York-City-Dashboard-Data-Analayst) -----------------
+0056 ----------------- [0056-Power-BI-AirBNB-New-York-City-Dashboard-Data-Analyst](https://github.com/PallavShukla971/0056-Power-AirBNB-New-York-City-Dashboard-Data-Analayst) -----------------
 
-0057 -----------------  -----------------
+0057 ----------------- [0057-Power-BI-Customer-Personality-Analysis-Dashboard-Data-Analyst](https://github.com/PallavShukla971/0057-Power-BI-Customer-Personality-Analysis-Dashboard-Data-Analyst) -----------------
 
-0058 -----------------  -----------------
+0058 ----------------- 0058-Power-BI-XXXXXXXXX-Dashboard-Data-Analyst -----------------
 
-0059 ----------------- [0059-Power-BI-UK-Grocery-Stores-Data-Analayst](https://github.com/PallavShukla971/0059-Power-BI-UK-Grocery-Stores-Data-Analayst/tree/main) -----------------
+0059 ----------------- [0059-Power-BI-UK-Grocery-Stores-Data-Analyst](https://github.com/PallavShukla971/0059-Power-BI-UK-Grocery-Stores-Data-Analayst/tree/main) -----------------
 
 0060 -----------------  -----------------
 
@@ -188,7 +188,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 [comment]: <> (###########################################  EXCEL  ##############################################) 
 # #####-#####__-EXCEL-__#####-#####
 
-0080 ----------------- [0080-Excel-Marketing-DASHBOARD-Data-Analayst-Project](https://github.com/PallavShukla971/0080-Excel-Marketing-DASHBOARD-Data-Analayst-Project) -----------------
+0080 ----------------- [0080-Excel-Marketing-DASHBOARD-Data-Analyst-Project](https://github.com/PallavShukla971/0080-Excel-Marketing-DASHBOARD-Data-Analayst-Project) -----------------
 
 0081 -----------------  -----------------
 
@@ -235,7 +235,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0100 ----------------- || [0100-Python-LeetCode-150](https://github.com/PallavShukla971/0100-Python-LeetCode-150) || [LeetCode-75](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%2075) || [LeetCode-Pandas](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%20Pandas) || -----------------
 
-0101 ----------------- [0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project](https://github.com/PallavShukla971/0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project) -----------------
+0101 ----------------- [0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analyst-Project](https://github.com/PallavShukla971/0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project) -----------------
 
 0102 ----------------- || [0102-Python-Smart-Assist-Machine-Learning-Generative-AI-&-Business-Analytics-Project](https://github.com/PallavShukla971/0102-Python-Smart-Assist-Machine-Learning-Generative-AI---Business-Analytics-Project) || -----------------
 
@@ -302,7 +302,7 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0131 ----------------- [0131-Authentic-Facbook-project](https://github.com/PallavShukla971/0131-Authentic-Facbook-project) -----------------
 
-XXXX ----------------- Pallav_The_Analayst.github.io -----------------
+XXXX ----------------- Pallav_The_Analyst.github.io -----------------
 
 
 
