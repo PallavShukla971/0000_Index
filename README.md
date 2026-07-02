@@ -311,7 +311,7 @@ XXXX ----------------- Pallav_The_Analyst.github.io -----------------
 [comment]: <> (###########################################    ##############################################) 
 # #####-#####__-Generative AI (Gen AI)-__#####-#####
 
-0140 ----------------- || [0102-Gen AI-MEDTECH-Generative-AI-RAG -LLM-Project](https://github.com/PallavShukla971/0102-Python-Smart-Assist-Machine-Learning-Generative-AI---Business-Analytics-Project) || -----------------
+0140 ----------------- || [0102-Gen AI-MEDTECH-Generative-AI-RAG -LLM-Project](https://github.com/PallavShukla971/0141-Gen-AI-MEDTECH-Generative-AI-RAG--LLM-Project) || -----------------
 
 
 
