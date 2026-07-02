@@ -228,12 +228,12 @@ Hey everyone, this is just an index file containing all the repo names and work
 
 0099 ----------------- [0099-Excel-All-Portfolio-Projects](https://github.com/PallavShukla971/0099-Excel-All-Portfolio-Projects) -----------------
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+0100 ----------------- || [0100-Python-LeetCode-150](htt||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 [comment]: <> (###########################################  PYTHON  ##############################################) 
 # #####-#####__-PYTHON-__#####-#####
-
-0100 ----------------- || [0100-Python-LeetCode-150](https://github.com/PallavShukla971/0100-Python-LeetCode-150) || [LeetCode-75](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%2075) || [LeetCode-Pandas](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%20Pandas) || -----------------
+ps://github.com/PallavShukla971/0100-Python-LeetCode-150) || [LeetCode-75](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%2075) || [LeetCode-Pandas](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%20Pandas) || -----------------
 
 0101 ----------------- [0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analyst-Project](https://github.com/PallavShukla971/0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project) -----------------
 
@@ -303,6 +303,15 @@ Hey everyone, this is just an index file containing all the repo names and work
 0131 ----------------- [0131-Authentic-Facbook-project](https://github.com/PallavShukla971/0131-Authentic-Facbook-project) -----------------
 
 XXXX ----------------- Pallav_The_Analyst.github.io -----------------
+
+0099 -----------------  -----------------
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+[comment]: <> (###########################################  Generative AI (Gen AI)  ##############################################) 
+# #####-#####__-PYTHON-__#####-#####
+
+0140 ----------------- || [0102-Gen AI-MEDTECH-Generative-AI-RAG -LLM-Project](https://github.com/PallavShukla971/0102-Python-Smart-Assist-Machine-Learning-Generative-AI---Business-Analytics-Project) || -----------------
 
 
 
